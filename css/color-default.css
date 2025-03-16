@@ -1,0 +1,98 @@
+:root {
+  --default:            #f29000;
+  --defaultborder:      #f29000;
+  --textos:             #212529;
+  --textosAlt:          #ffffff;
+  --link:               #009dff;
+  --linkHover:          #004671;
+  --fluidBack:          #a39999;
+
+  --footer:             #333;
+  --footerfont:         #ffffff;
+  --footerfontHv:       #a39999;
+  
+  --pagTitTextos:       #ffffff;
+  --pagTitBack:         #ffffff;
+  
+  --navText:            #999999;
+  --navTextHover:       #ffffff;
+  --navTextBack:        #f29000;
+  --navTopBack:         #ffffff;
+  --navTopBackContr:    #ffffff;
+  --menuDropBack:       #ffffff;
+  --menuBack:           #e6e9ed;
+  --menuBackHv:         #e2e6ea;
+  
+  --botaDefaultText:    #ffffff;
+  --botaDefaultTextH:   #ffffff;
+  
+  --sessao-1Text:       #ffffff;
+  
+  --bulletsGrdText:     #ffffff;
+
+  --cardsBullcor:       #ffffff;
+  --cardsBorder:        #bbbbbb;
+
+  --scrlTopTx:          #ffffff;
+
+  --photos:             #ffffff;
+  --fundoSecAlt:        #feffdd;
+
+  --loadding:           #ffffff;
+
+  --fundoCz:            #eff1f3;
+
+  --corPruc:             #007387;
+
+  --corSiss1:           #60c3ad;
+  --corSiss2:           #1ba085;
+
+
+  --corHome:            #e63312;
+  --corHome2:           #ec6608;
+  --corGiss:            #0091d3;
+  --corGiss2:           #0c265d;
+  --corGde1:            #ed1c24;
+  --corGde2:            #891a1c;
+  --corGivaf1:          #c7c6c6;
+  --corGivaf2:          #f39208;
+  --corGivaf3:          #585857;
+  --corCed1:            #d7a500;
+  --corCed2:            #173b56;
+  --corGiex1:           #e63323;
+  --corGiex2:           #ae0f0a;
+  --coriCad1:           #16b46c;
+  --coriCad2:           #036446;
+  --coriCad3:           #003a32;
+  --corGier:            #e20613;
+  --corGier2:           #048dc1;
+  --corGier3:           #ffcb00;
+  --corActoAdm1:        #f6ab6f;
+  --corActoAdm2:        #ef7f3c;
+  --corActoAdm3:        #e74e0f;
+  --corActoCid1:        #ffe495;
+  --corActoCid2:        #fabd5d;
+  --corActoCid3:        #f29224;
+  --corActoContrtos1:   #e08d72;
+  --corActoContrtos2:   #b6533a;
+  --corActoContrtos3:   #8a230e;
+  --corActoEsp1:        #c4d983;
+  --corActoEsp2:        #92c256;
+  --corActoEsp3:        #51ad32;
+  --corActoHab1:        #ce94c1;
+  --corActoHab2:        #a74d8d;
+  --corActoHab3:        #82256a;
+  --corActoPub1:        #a2cbed;
+  --corActoPub2:        #5387c6;
+  --corActoPub3:        #28357f;
+  --corCidI1:           #b7ddd3;
+  --corCidI2:           #46bab8;
+  --corCidI3:           #1b5d71;
+  --corPruc1:           #707173;
+  --corPruc2:           #1b5d71;
+  --corPruc3:           #044352;
+  --corActobeneficiossociais: #3b4a57;
+  --corActoseguranca: #3d5ea3;
+  --corActodefesacivil: #8e4b30;
+
+}
